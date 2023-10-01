@@ -2,8 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-@import "variables";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -110,8 +108,8 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-color: #800080;
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, #800080);
 
   @include large {
     padding: 5rem 6rem;
