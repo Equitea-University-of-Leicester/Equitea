@@ -1,4 +1,5 @@
 # Equitea
 ## University of Leicester - Physics and Astronomy Department
 
-[When's our next meeting?][Equitea Schedule.pdf](./Equitea Schedule.pdf)
+[When's our next meeting?](https://equitea-university-of-leicester.github.io
+/Equitea Schedule.pdf)
