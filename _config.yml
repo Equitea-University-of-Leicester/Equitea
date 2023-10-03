@@ -1,4 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 
-title: [Equitea]
+title: <p align="center">
+  <img src="underconstruction.png" width="350" title="Under Construction">
+</p>
 description: [University of Leicester - Physics & Astronomy Department]
