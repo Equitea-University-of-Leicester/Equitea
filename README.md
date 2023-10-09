@@ -4,5 +4,5 @@
 
 [When's our next meeting?](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)
 
-<h2>Resources:</h2>
+<h2><u>Resources:</u></h2>
 &sdot; [Accessibility in your slides and figures](https://equitea-university-of-leicester.github.io/Accessibility.md)
