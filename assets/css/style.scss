@@ -31,7 +31,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
+  color: #000000;
   background-color: #e3e3e3;
 }
 
@@ -211,7 +211,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: $section-headings-color;
+    color: #000000;
   }
 
   p {
@@ -222,7 +222,7 @@ a {
     padding: 2px 4px;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 0.9rem;
-    color: $code-text-color;
+    color: #000000;
     background-color: #e3e3e3;
     border-radius: 0.3rem;
   }
@@ -232,7 +232,7 @@ a {
     margin-top: 0;
     margin-bottom: 1rem;
     font: 1rem "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: $code-text-color;
+    color: #000000;
     word-wrap: normal;
     background-color: #f3f6fa;
     border: solid 1px $border-color;
@@ -242,7 +242,7 @@ a {
       padding: 0;
       margin: 0;
       font-size: 0.9rem;
-      color: $code-text-color;
+      color: #000000;
       word-break: normal;
       white-space: pre;
       background: transparent;
