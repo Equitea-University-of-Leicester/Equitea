@@ -1,9 +1,3 @@
----
-title: Equitea
-layout: template
-filename: README.md
---- 
-
 <p align="center">
   <img src="underconstruction.png" width="350" title="Under Construction">
 </p>
