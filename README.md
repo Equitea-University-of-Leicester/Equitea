@@ -16,6 +16,6 @@
 <hr />
 <h2><u>Other Equiteas:</u></h2>
 <h5>Equitea initiatives have already been established at other universities. They also have good resources on their pages, take a look!</h5>
-[University of Michigan](https://sites.google.com/umich.edu/astro-dei))
-[University of Warwick](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/)
+[University of Michigan](https://sites.google.com/umich.edu/astro-dei)<br />
+[University of Warwick](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/)<br />
 [Queen's University Belfast](https://qub-arc-equitea.github.io)
