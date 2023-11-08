@@ -4,9 +4,9 @@
 </p>
 <hr />
 <h2><u>Previous Sessions:</u></h2>
-[Town Hall Pitch](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)<br />
-[10/10/23: Introduction and Code of Conduct](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)<br />
-[14/11/23: Accessibility in communicating science](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)
+[Town Hall Pitch](https://equitea-university-of-leicester.github.io/TownHall.pdf)<br />
+[10/10/23: Introduction and Code of Conduct](https://equitea-university-of-leicester.github.io/10thOctIntro.pdf)<br />
+[14/11/23: Accessibility in communicating science](https://equitea-university-of-leicester.github.io/14thNovAccessibility.pdf)
 <hr />
 <h2><u>Resources:</u></h2>
 <b>Accessibility in communicating science:</b><br />
