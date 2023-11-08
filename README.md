@@ -10,7 +10,7 @@
 <hr />
 <h2><u>Resources:</u></h2>
 <b>Accessibility in communicating science:</b><br />
-Accessibility in your slides and figures<b></b>(coming soon :D)</b><br /><br />
+Accessibility in your slides and figures<u>(coming soon :D)</u><br /><br />
 <b>LGBTQIA+:</b><br />
 [The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)<br />
 [500 Queer Scientists](https://500queerscientists.com)
