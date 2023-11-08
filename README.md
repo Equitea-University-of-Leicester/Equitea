@@ -13,10 +13,10 @@
 <h4>Accessibility in communicating science:</h4>
 [Accessibility in your slides and figures](https://equitea-university-of-leicester.github.io/Accessibility.md)
 <h4>LGBTQIA+:</h4>
-[Accessibility in your slides and figures](https://equitea-university-of-leicester.github.io/Accessibility.md)
+[The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)
 
 <h2><u>Other Equiteas:</u></h2>
 <h6>Equitea initiatives have already been established at other universities. They also have good resources on their pages, take a look!</h6>
 [University of Michigan](https://sites.google.com/umich.edu/astro-dei))
-<font size="+2">&sdot</font>[University of Warwick](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/)
-<font size="+2">&sdot;</font>[Queen's University Belfast](https://qub-arc-equitea.github.io)
+[University of Warwick](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/)
+[Queen's University Belfast](https://qub-arc-equitea.github.io)
