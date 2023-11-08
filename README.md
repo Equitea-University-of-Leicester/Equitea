@@ -9,9 +9,9 @@
 [14/11/23: Accessibility in communicating science](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)
 <hr />
 <h2><u>Resources:</u></h2>
-<b>Accessibility in communicating science:</b>
-[Accessibility in your slides and figures](https://equitea-university-of-leicester.github.io/Accessibility.md)
-<b>LGBTQIA+:<b>
+<b>Accessibility in communicating science:</b><br />
+[Accessibility in your slides and figures](https://equitea-university-of-leicester.github.io/Accessibility.md)<br /><br />
+<b>LGBTQIA+:<b><br />
 [The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)
 <hr />
 <h2><u>Other Equiteas:</u></h2>
