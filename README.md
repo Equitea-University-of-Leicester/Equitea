@@ -10,9 +10,10 @@
 <hr />
 <h2><u>Resources:</u></h2>
 <b>Accessibility in communicating science:</b><br />
-[Accessibility in your slides and figures](https://equitea-university-of-leicester.github.io/Accessibility.md)<br /><br />
+Accessibility in your slides and figures<b></b>(coming soon :D)</b><br /><br />
 <b>LGBTQIA+:</b><br />
-[The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)
+[The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)<br />
+[500 Queer Scientists](https://500queerscientists.com)
 <hr />
 <h2><u>Other Equiteas:</u></h2>
 <h5>Equitea initiatives have already been established at other universities. They also have good resources on their pages, take a look!</h5>
