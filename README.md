@@ -5,8 +5,8 @@
 [When's our next meeting?](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)
 
 <h2><u>Previous Sessions:</u></h2>
-[Town Hall Pitch](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)
-[10/10/23: Introduction and Code of Conduct](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)
+[Town Hall Pitch](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)<br />
+[10/10/23: Introduction and Code of Conduct](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)<br />
 [14/11/23: Accessibility in communicating science](https://equitea-university-of-leicester.github.io/Equitea%20Schedule.pdf)
 
 <h2><u>Resources:</u></h2>
