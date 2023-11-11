@@ -10,7 +10,11 @@
 <hr />
 <h2><u>Resources:</u></h2>
 <b>Accessibility in communicating science:</b><br />
-Accessibility in your slides and figures<u>(coming soon :D)</u><br /><br />
+[Yale Library Poster Guide](https://guides.library.yale.edu/academic-poster-resources/accessibility)<br />
+[Guidelines for Accessible Posters, Gilson & Kitchin](https://www.aucd.org/docs/annual_mtg_2008/accessibility_posters_gilson2007.pdf)<br />
+[Coloring for Colourblindness (Good palettes for colourblindness & testing how palettes look in different types of colourblindness)](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)<br />
+[Colour Contrast Analayser (Downloadable tool which assigns a contrast number for two hex codes](https://www.tpgi.com/color-contrast-checker/)<br />
+<br />
 <b>LGBTQIA+:</b><br />
 [The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)<br />
 [500 Queer Scientists](https://500queerscientists.com)
