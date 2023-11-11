@@ -18,10 +18,11 @@
 [&#x2022; Colour Contrast Analyser ](https://www.tpgi.com/color-contrast-checker/)(Downloadable tool which assigns a contrast number for two hex codes)<span class="midbr"></span>
 [&#x2022; WebAim Contrast Checker ](https://webaim.org/resources/contrastchecker/)(Online tool which assigns a contrast ratio for two hex codes)<span class="midbr"></span>
 [&#x2022; The Color Palette Studio: Color Contrast Checker ](https://thecolorpalettestudio.com/pages/free-color-contrast-checker#:~:text=How%20to%20use%20the%20Color,%2C%20then%20you're%20good)(Online tool which assigns a contrast ratio for two hex codes for text/background both ways round)<span class="midbr"></span>
-[&#x2022; Color Oracle ](https://colororacle.org)(Downloadtable tool which simulates color blindness on your screen for easy design checking)<span class="midbr"></span>
+[&#x2022; Color Oracle ](https://colororacle.org)(Downloadtable tool which simulates colourblindness on your screen for easy design checking)<span class="midbr"></span>
 [&#x2022; Coblis — 
-Color Blindness Simulator ](https://www.color-blindness.com/coblis-color-blindness-simulator/)(Upload figures and files to see them through different colour blindness)<span class="midbr"></span>
-[&#x2022; Accessible color palette builder ](https://toolness.github.io/accessible-color-matrix/)(Input your palette hex codes, it will tell you which combinations are good for text/backgrround)<span class="bigbr"></span>
+Color Blindness Simulator ](https://www.color-blindness.com/coblis-color-blindness-simulator/)(Upload figures and files to see them through different colourblindness)<span class="midbr"></span>
+[&#x2022; Accessible color palette builder ](https://toolness.github.io/accessible-color-matrix/)(Input your palette hex codes, it will tell you which combinations are good for text/background)<span class="midbr"></span>
+[&#x2022; Color Safe ](http://colorsafe.co)(Input your background colour, it will give you some text colour options with high enough contrast ratio)<span class="bigbr"></span>
 [&#x2022; Google Fonts: Introducing accessibility in typography ](https://fonts.google.com/knowledge/readability_and_accessibility/introducing_accessibility_in_typography)(Article on what makes a font accessible)<span class="midbr"></span>
 [&#x2022; OpenDyslexic ](https://opendyslexic.org)(Downloadable font designed for dyslexia)
 <span class="bigbr"></span>
