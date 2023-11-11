@@ -4,7 +4,7 @@
 </p>
 <hr />
 <h2><u>Previous Sessions:</u></h2>
-[Town Hall Pitch](https://equitea-university-of-leicester.github.io/TownHall.pdf)<br />
+[Town Hall Pitch](https://equitea-university-of-leicester.github.io/Equitea%20Pitch%20Online%20version.pdf)<br />
 [<u>10/10/23:</u> Introduction and Code of Conduct](https://equitea-university-of-leicester.github.io/10thOctIntro.pdf)<br />
 [<u>14/11/23:</u> Accessibility in communicating science](https://equitea-university-of-leicester.github.io/14thNovAccessibility.pdf)
 <hr />
