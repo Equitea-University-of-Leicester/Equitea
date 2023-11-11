@@ -5,8 +5,8 @@
 <hr />
 <h2><u>Previous Sessions:</u></h2>
 [Town Hall Pitch](https://equitea-university-of-leicester.github.io/TownHall.pdf)<br />
-[10/10/23: Introduction and Code of Conduct](https://equitea-university-of-leicester.github.io/10thOctIntro.pdf)<br />
-[14/11/23: Accessibility in communicating science](https://equitea-university-of-leicester.github.io/14thNovAccessibility.pdf)
+[<u>10/10/23:</u> Introduction and Code of Conduct](https://equitea-university-of-leicester.github.io/10thOctIntro.pdf)<br />
+[<u>14/11/23:</u> Accessibility in communicating science](https://equitea-university-of-leicester.github.io/14thNovAccessibility.pdf)
 <hr />
 <h2><u>Resources:</u></h2>
 <b>Accessibility in communicating science:</b><br />
@@ -16,8 +16,8 @@
 [&#x2022; Colour Contrast Analyser (Downloadable tool which assigns a contrast number for two hex codes](https://www.tpgi.com/color-contrast-checker/)<br />
 <br />
 <b>LGBTQIA+:</b><br />
-[The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)<br />
-[500 Queer Scientists](https://500queerscientists.com)
+[&#x2022; The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)<br />
+[&#x2022; 500 Queer Scientists](https://500queerscientists.com)
 <hr />
 <h2><u>Other Equiteas:</u></h2>
 <h5>Equitea initiatives have already been established at other universities. They also have good resources on their pages, take a look!</h5>
