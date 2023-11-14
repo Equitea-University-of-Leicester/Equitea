@@ -6,7 +6,7 @@
 <h2><u>Previous Sessions:</u></h2>
 Town Hall Pitch: [pdf ](https://equitea-university-of-leicester.github.io/Equitea%20Pitch%20Online%20version.pdf) [pptx ](https://equitea-university-of-leicester.github.io/Equitea%20Pitch%20Online%20version.pptx)<br />
 <u>10/10/23</u> Introduction and Code of Conduct: [pdf ](https://equitea-university-of-leicester.github.io/Equitea%20First%20Session%20Online%20version.pdf) [pptx ](https://equitea-university-of-leicester.github.io/Equitea%20First%20Session%20Online%20version.pptx)<br />
-<u>14/11/23</u> Accessibility in Communicating Science: [pdf ](https://equitea-university-of-leicester.github.io/Accessibility%20in%20Communicating%20Science%20Online%20version.pdf) [pptx ](https://equitea-university-of-leicester.github.io/Accessibility%20in%20Communicating%20Science%20Online%20version.pptx)<br />
+<u>14/11/23</u> Accessibility in Communicating Science: [pdf ](https://equitea-university-of-leicester.github.io/Accessibility%20in%20Communicating%20Science%20Online%20version.pdf) [pptx ](https://equitea-university-of-leicester.github.io/Accessibility%20in%20Communicating%20Science%20Online%20version.pptx) [recording (coming soon) ] [transcript (coming soon) ]<br />
 <hr />
 <h2><u>Resources:</u></h2>
 <b>Accessibility in communicating science:</b><br />
